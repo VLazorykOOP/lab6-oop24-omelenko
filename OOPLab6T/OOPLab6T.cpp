@@ -7,7 +7,7 @@
 
 // Ваші файли загловки 
 //
-#include "Lab6Example.h"
+#include "Task.h"
 int main()
 {
     std::cout << " Lab #6  !\n";
@@ -15,6 +15,8 @@ int main()
     //  Головне меню завдань
     //  Функції та класи можуть знаходитись в інших файлах проекту
 
-    Example();
+    task1();
+    task2();
+    task3();
 
 }
