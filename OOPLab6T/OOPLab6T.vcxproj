@@ -144,6 +144,9 @@
     <ClCompile Include="Lab6Example.cpp" />
     <ClCompile Include="OOPLab6T.cpp" />
     <ClCompile Include="Example3.cpp" />
+    <ClCompile Include="Task1.cpp" />
+    <ClCompile Include="Task2.cpp" />
+    <ClCompile Include="Task3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lab6Example.h" />
